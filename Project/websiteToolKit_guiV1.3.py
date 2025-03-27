@@ -1,5 +1,7 @@
 #external libraries used Wapiti3, beautifulsoup, nmap, sqlmap, commix, selenium
 #DVWA install https://www.geeksforgeeks.org/how-to-setup-dvwa-in-windows/
+#https://www.geeksforgeeks.org/python-gui-tkinter/
+#https://docs.python.org/3/library/tkinter.html
 """
 
 
